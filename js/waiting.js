@@ -1,5 +1,5 @@
 /**
- * Waiting the static library loaded before jQuery used its functions.
+ * Waiting the static library loaded before jQuery used there functions.
  * @param {*} jQuery 
  * @param {string} element 
  * @param {string} functionName 
